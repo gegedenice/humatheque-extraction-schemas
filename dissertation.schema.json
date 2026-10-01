@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://smartbiblia.fr/schemas/dissertation.schema.json",
+  "$id": "https://raw.githubusercontent.com/gegedenice/humatheque-extraction-schemas/refs/heads/main/dissertation.schema.json",
   "title": "Dissertation title-page extraction",
   "description": "Pivot schema of the VLM title-page extraction for a graduate dissertation. Input of POST /check/dissertation.",
   "type": "object",
